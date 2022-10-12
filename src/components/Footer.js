@@ -71,8 +71,8 @@ function Footer() {
             <img
                 width="102"
                 height="40"
-                src={`${process.env.PUBLIC_URL}/assets/images/logo.svg`}
-                alt="Facebook"
+                src={`${process.env.PUBLIC_URL}/assets/images/logo.png`}
+                alt="logo"
               />
           </Link>
           </div>

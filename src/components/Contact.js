@@ -66,7 +66,7 @@ function Contact() {
                     <div>
                       <span className="block text-xs text-gray-500">Telephone Number</span>
                       <span className="block font-medium text-gray-800 text-sm md:text-base">
-                        (+92) 304 1479340
+                        (+92) 3174112323
                       </span>
                     </div>
                   </div>
@@ -87,7 +87,7 @@ function Contact() {
                     <div>
                       <span className="block text-xs text-gray-500">Email Address</span>
                       <span className="block font-medium text-gray-800 text-sm md:text-base">
-                        zeeshan7826@gmail.com
+                        shakeeljutt070@gmail.com
                       </span>
                     </div>
                   </div>
